@@ -1,0 +1,15 @@
+GET /bnr.php?section=General&pub=593174&format=300x50&ga=g HTTP/2
+Host: uprimp.com
+Cookie: used_ad2633134=1; total_impressions=1; cpa_663459=300x50_671757614_0
+Sec-Ch-Ua: " Not A;Brand";v="99", "Chromium";v="96"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://ms5hf7.cn/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+

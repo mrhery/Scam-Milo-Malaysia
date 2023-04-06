@@ -1,0 +1,16 @@
+GET /4fe48aebd6/4f59451604/?placementName=Pop&is_first=true&randomA=0_5804&maxw=0 HTTP/2
+Host: bonepa.com
+Cookie: shown1=0; total_impressions=2; used_ad2633296=2
+Sec-Ch-Ua: " Not A;Brand";v="99", "Chromium";v="96"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://ms5hf7.cn/oA52u7dG/7-eleven-my/?_t=1680783561895
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
